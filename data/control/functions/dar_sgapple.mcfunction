@@ -1,0 +1,1 @@
+give @p minecraft:warped_fungus_on_a_stick{display:{Name:'{"text":"Super Golden Apple","color":"gold","bold":true}'},CustomModelData:1,super:1b} 1

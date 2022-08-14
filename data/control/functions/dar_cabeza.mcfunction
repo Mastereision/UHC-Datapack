@@ -1,0 +1,1 @@
+give @p warped_fungus_on_a_stick{display:{Name:'{"text":"Cabeza Dorada","color":"gold","bold":true}'},CustomModelData:1,dorada:1b,Enchantments:[{}]} 1

@@ -1,0 +1,1 @@
+give @p carrot_on_a_stick{display:{Name:'{"text":"Hyper Golden Apple","color":"gold","bold":true}'},CustomModelData:1,hyper:1b,Enchantments:[{}]} 1

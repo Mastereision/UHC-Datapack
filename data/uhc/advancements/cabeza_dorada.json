@@ -1,0 +1,13 @@
+{
+    "criteria": {
+      "cabeza_dorada": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "uhc:cabeza_dorada"
+        }
+      }
+    },
+    "rewards": {
+      "function": "uhc:receta/dar_cabeza"
+    }
+  }

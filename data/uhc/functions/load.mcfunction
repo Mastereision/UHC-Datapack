@@ -7,4 +7,4 @@ scoreboard objectives add plus dummy
 scoreboard objectives add muerte deathCount
 #Comenzar
 scoreboard objectives add empezar dummy
-title @a times 0 100 10
+title @a times 0 20 10
